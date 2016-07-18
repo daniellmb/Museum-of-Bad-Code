@@ -4,6 +4,14 @@ The Museum of Bad Code (MOBC) is the world's only digital museum dedicated to th
 
 This free resource empowers developers to learn from the real-world mistakes of others and improve code quality by not making those same errors themselves.
 
+## [Submit Code](../../issues/new) for inclusion in the museum collection.
+
+### Guidelines
+
+- [Ensure the code has not been submitted already](../../issues?q=is%3Aissue).
+- Use a succinct title and isolated code snippet.
+- Bonus points for including refactoring improvements.
+
 Follow [@museumofbadcode](https://twitter.com/museumofbadcode) on Twitter for updates as new exhibits added to the growing collection.
 
 ![Museum of Bad Code Logo](https://raw.githubusercontent.com/daniellmb/Museum-of-Bad-Code/gh-pages/logo.png)
