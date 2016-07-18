@@ -10,6 +10,7 @@ This free resource empowers developers to learn from the real-world mistakes of 
 
 - [Ensure the code has not been submitted already](../../issues?q=is%3Aissue).
 - Use a succinct title and isolated code snippet.
+- Code should be as anonymous as possible. (It's the Museum of Bad Code not Programmers)
 - Bonus points for including refactoring improvements.
 
 Follow [@museumofbadcode](https://twitter.com/museumofbadcode) on Twitter for updates as new exhibits added to the growing collection.
