@@ -4,4 +4,4 @@ The Museum of Bad Code (MOBC) is the world's only digital museum dedicated to th
 
 This free resource empowers developers to learn from the real-world mistakes of others and improve code quality by not making those same errors themselves.
 
-Follow [@museumofbadcode](https://twitter.com/museumofbadcode) on Twitter, for updates as new exhibits added to the growing collection.
+Follow [@museumofbadcode](https://twitter.com/museumofbadcode) on Twitter for updates as new exhibits added to the growing collection.
