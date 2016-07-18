@@ -4,7 +4,7 @@ The Museum of Bad Code (MOBC) is the world's only digital museum dedicated to th
 
 This free resource empowers developers to learn from the real-world mistakes of others and improve code quality by not making those same errors themselves.
 
-#### Depressed? See the [Museum-of-Good-Code](https://github.com/daniellmb/Museum-of-Good-Code) for some great code!
+#### Depressed? See the [Museum of Good Code](https://github.com/daniellmb/Museum-of-Good-Code) for some great code!
 
 ## [Submit Code](../../issues/new) for inclusion in the museum collection.
 
